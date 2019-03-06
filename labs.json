@@ -46,5 +46,11 @@
 		"title": "APIs, Gesture, and AJAX",
 		"date": "February 28",
 		"image": "api.png"
+	},
+	{
+		"id": "lab-9",
+		"title": "Debugging 101",
+		"date": "Match 6",
+		"image": "debug.png"
 	}
 ]
